@@ -1,0 +1,9 @@
+bin
+*.exe
+*.o
+*.swp
+cscope.out
+tags
+with_c11/17/findbook
+with_c11/2/lrvalue
+with_c11/tags
